@@ -9,5 +9,5 @@ Dir.chdir("/Users/schacon/projects/atest") do
     r.add(fname)
     count += 1
   end
-  r.commit_index('my commit')
+  
 end
